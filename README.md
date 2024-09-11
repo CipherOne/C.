@@ -6,7 +6,7 @@
 	<br>
 <h3> PRIVATE PROPERTY OF AND IN THE ALTRUEN NATION </h3></a></div>
 <br>
-<a href = "![perpetually moving triple torus sphere](https://github.com/user-attachments/assets/b027100e-d8ca-4342-9e0b-e05f0b304553)
+<a href = "![perpetually moving triple torus sphere](https://github.com/user-attachments/assets/b027100e-d8ca-4342-9e0b-e05f0b304553)</a>
 <br>
 <br>
   # gRPC – An RPC library and framework
