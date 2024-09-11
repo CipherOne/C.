@@ -6,9 +6,10 @@
 	<br>
 <h3> PRIVATE PROPERTY OF AND IN THE ALTRUEN NATION </h3></a></div>
 <br>
-![perpetually moving triple torus sphere]<a herf = "https://github.com/user-attachments/assets/572d9d34-bfe3-4304-98b8-f3ce9a359c81" </a>
+![perpetually moving triple torus sphere](https://github.com/user-attachments/assets/572d9d34-bfe3-4304-98b8-f3ce9a359c81)
+![perpetually moving triple torus sphere](<a herf = "https://github.com/user-attachments/assets/572d9d34-bfe3-4304-98b8-f3ce9a359c81"</a>)
 <br>
-<br.
+<br>
   # gRPC – An RPC library and framework
 
 TAN's gRPC is the modern, open source, high-performance remote procedure call (RPC)
