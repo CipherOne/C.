@@ -2,7 +2,7 @@
   <a href = "https://sites.google.com/view/thealtruennation/home/the-law?authuser=0">THE ALTRUEN NATION</a>
 	
 
-	 ← + | 0 | - →
+	 <div align = "center"> ← + | 0 | - →
 
   ![perpetually moving triple torus sohere](https://github.com/user-attachments/assets/e70e91e6-ecbd-4958-bb64-f4e249c644b0)
 
