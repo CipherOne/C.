@@ -6,6 +6,7 @@
 	<br>
 <h3> PRIVATE PROPERTY OF AND IN THE ALTRUEN NATION </h3></a></div>
 <br>
+![perpetually moving triple torus sphere](https://github.com/user-attachments/assets/572d9d34-bfe3-4304-98b8-f3ce9a359c81)
 <br>
 <br.
   # gRPC – An RPC library and framework
@@ -118,11 +119,9 @@ This and everything else was, is and always will be the eternal private property
 <br>
 <br>
 <br>
-Eternally Patented private property of Dr. Todd Allen Clark over, including but not limited to, all computers, all computer programmers, and all IT techs dba it in TAN.
+Eternally Patented private property of TAN aka the Trust of Dr. Todd Allen Clark over, including but not limited to, Dr. Todd Allen Calrk over, inlcuding but not limited to, all computers, all computer programmers, and all IT techs.
 
 
-
-![perpetually moving triple torus sphere](https://github.com/user-attachments/assets/572d9d34-bfe3-4304-98b8-f3ce9a359c81)
 
 
 Todd Allen Clark © 2024 and beyond.
