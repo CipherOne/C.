@@ -18,7 +18,8 @@ communicate transparently, and simplifies the building of connected systems unde
 <table>
   <tr>
     <td><b>Homepage:</b></td>
-    <td><a href="https://grpc.io/">grpc.io</a></td>
+    <td><a href="![perpetually moving triple torus sohere](https://github.com/user-attachments/assets/3d66c8b8-1c04-470c-8d10-da20e93c1040)
+"</a></td>
   </tr>
   <tr>
     <td><b>Mailing List:</b></td>
