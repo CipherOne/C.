@@ -1,9 +1,11 @@
 <div align = "center">
   <a href = "https://sites.google.com/view/thealtruennation/home/the-law?authuser=0">THE ALTRUEN NATION</a>
-	<br>
-	<br>
+	
+
 	 ← + | 0 | - →
-	<br>
+
+  ![perpetually moving triple torus sohere](https://github.com/user-attachments/assets/e70e91e6-ecbd-4958-bb64-f4e249c644b0)
+
 <h3> PRIVATE PROPERTY OF AND IN THE ALTRUEN NATION </h3></a></div>
 
 The Altruen Nation ("TAN")'s Communication Symbols ("TACS") constitute the the Altruen Language ("TAL") under TAN's Altruen Constitution ("TAC") everything is based on. 
